@@ -119,6 +119,9 @@ a{
     white-space: nowrap;
     text-transform: lowercase;
 }
+p.link{
+    text-wrap: wrap;
+}
 .service{
     display: flex;
     flex-wrap: wrap;
@@ -143,6 +146,7 @@ a.change-text{
 }
 a.ln{
     color: rgb(244, 207, 255);
+    text-wrap: wrap;
 }
 a.change-text:hover{
     color: #5265f6;
@@ -284,7 +288,7 @@ a.lang{
     .nav-link.gl:hover{
         color: rgba(0, 155, 163, 0.55);
     }
-    .navbar-toggler{
+    .navbar-toggler.ll{
         background: #fffb00;
         color: #000;
     }
