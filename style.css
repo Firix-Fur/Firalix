@@ -252,7 +252,7 @@ a.lang{
 }
 @media screen and (max-width: 990px) and (min-height: 719px) {
     .wrapper{
-        background-position-x: -500px;
+        background-position-x: -440px;
     }
     .heading{
         width: 100%;
