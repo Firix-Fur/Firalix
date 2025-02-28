@@ -333,7 +333,7 @@ a.lang{
 }
 @media screen and (min-width: 2559px) {
     .wrapper{
-        background-position-y: -650px;
+        background-position-y: -700px;
     }
     .title{
         font-size: 270%;
